@@ -23,8 +23,8 @@ header-includes: |
   <meta name="dc.date" content="2023-09-30" />
   <meta name="citation_publication_date" content="2023-09-30" />
   <meta property="article:published_time" content="2023-09-30" />
-  <meta name="dc.modified" content="2023-09-30T23:23:47+00:00" />
-  <meta property="article:modified_time" content="2023-09-30T23:23:47+00:00" />
+  <meta name="dc.modified" content="2023-09-30T23:24:33+00:00" />
+  <meta property="article:modified_time" content="2023-09-30T23:24:33+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -45,9 +45,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://aemcdani.github.io/tutorial-1/" />
   <meta name="citation_pdf_url" content="https://aemcdani.github.io/tutorial-1/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://aemcdani.github.io/tutorial-1/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://aemcdani.github.io/tutorial-1/v/894bbef2ab20ced5282bec0b4dde68d6dd895953/" />
-  <meta name="manubot_html_url_versioned" content="https://aemcdani.github.io/tutorial-1/v/894bbef2ab20ced5282bec0b4dde68d6dd895953/" />
-  <meta name="manubot_pdf_url_versioned" content="https://aemcdani.github.io/tutorial-1/v/894bbef2ab20ced5282bec0b4dde68d6dd895953/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://aemcdani.github.io/tutorial-1/v/b060e58de54f1a943917c868980d35a5a57f9459/" />
+  <meta name="manubot_html_url_versioned" content="https://aemcdani.github.io/tutorial-1/v/b060e58de54f1a943917c868980d35a5a57f9459/" />
+  <meta name="manubot_pdf_url_versioned" content="https://aemcdani.github.io/tutorial-1/v/b060e58de54f1a943917c868980d35a5a57f9459/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -69,9 +69,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://aemcdani.github.io/tutorial-1/v/894bbef2ab20ced5282bec0b4dde68d6dd895953/))
+([permalink](https://aemcdani.github.io/tutorial-1/v/b060e58de54f1a943917c868980d35a5a57f9459/))
 was automatically generated
-from [aemcdani/tutorial-1@894bbef](https://github.com/aemcdani/tutorial-1/tree/894bbef2ab20ced5282bec0b4dde68d6dd895953)
+from [aemcdani/tutorial-1@b060e58](https://github.com/aemcdani/tutorial-1/tree/b060e58de54f1a943917c868980d35a5a57f9459)
 on September 30, 2023.
 </em></small>
 
@@ -119,7 +119,7 @@ Jane Roe \<jane.roe@whatever.edu\>.
 
 
 ## Abstract {.page_break_before}
-
+This is our abstract about something
 
 
 
